@@ -1,0 +1,25 @@
+{
+  "name": "mean-chart-react",
+  "version": "1.0.0",
+  "description": "A simple React library for creating graphs and other data visualizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankerpeet/mean-chart-react.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Anker Peet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankerpeet/mean-chart-react/issues"
+  },
+  "homepage": "https://github.com/ankerpeet/mean-chart-react#readme",
+  "dependencies": {
+    "mean-chart": "^1.0.31"
+  }
+}
